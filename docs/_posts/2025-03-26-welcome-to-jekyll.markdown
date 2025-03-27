@@ -45,8 +45,8 @@ gem install jekyll bundler
 Vola! Now we can create a local blog
 
 ```sh
-jekyll new myblog
-cd ./myblog
+jekyll new docs
+cd ./docs
 bundle exec jekyll serve --livereload
 ```
 
