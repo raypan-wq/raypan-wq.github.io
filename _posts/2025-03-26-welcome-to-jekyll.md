@@ -11,7 +11,7 @@ Considering there is a wide range of choice in the market, most are in charge se
 
 <!-- describe my initiatie and goal of blog -->
 
-Some blogs and posts guide me to a balanced solution: Github Page + Jekyll. I log here for someone to refer to.
+Some blogs and posts guide me to a balanced solution: Github Page + [Jekyll][jekyllrb]. I log here for someone to refer to.
 
 Firstly, I need to create a public repo named raypan-wq.github.io, the prefix name must matchs your github username.
 
@@ -59,3 +59,4 @@ Jekyll requires blog post files to be named according to the following format:
 Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
 [sell-urs-sell-ur-work]: https://www.solipsys.co.uk/new/SellYourselfSellYourWork.html?yc25hn
+[jekyllrb]: https://jekyllrb.com/docs/
